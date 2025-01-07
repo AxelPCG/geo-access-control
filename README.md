@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto implementa um sistema de controle de acesso geográfico, monitorando e registrando tentativas de acesso a partir de diferentes dispositivos (Windows e Mobile). O objetivo principal é identificar e analisar acessos temporários realizados a partir de locais geograficamente distantes ou próximos, aplicando regras de bloqueio conforme critérios estabelecidos. O sistema gera relatórios recorrentes e mapas de acessos, além de enviar notificações sobre eventos importantes.
+Este projeto implementa um sistema de controle de acesso geográfico, monitorando e registrando tentativas de acesso a partir de diferentes dispositivos (Windows e Mobile). O objetivo principal é identificar e analisar acessos temporários realizados a partir de locais geograficamente distantes ou próximos, aplicando regras de bloqueio conforme critérios estabelecidos. O sistema gera relatórios recorrentes e mapas de acessos, além de enviar notificações sobre eventos importantes. Por questões segurança a estrutura dos bancos de dados utilizados foram ocultados, assim, a o projeto como um todo serve apenas para demonstração de técnicas utilizadas.
 
 ## Estrutura de Arquivos
 
